@@ -1,5 +1,7 @@
 # Tarkov Hideout Tracker
 
+[![Download Tarkov Hideout Tracker](https://img.shields.io/badge/⬇️%20Download%20Installer-0.9.6-blue?style=for-the-badge)](https://github.com/deadpho3nix/hideout_tracker/raw/main/Tarkov%20Hideout%20Tracker%20Setup.exe)
+
 Tarkov Hideout Tracker is a WPF-based application designed to help players of **Escape from Tarkov** track their progress in collecting items, completing quests, and upgrading their hideout. The application provides a clean and modern interface to manage your progress efficiently.
 
 ---
@@ -59,12 +61,11 @@ Tarkov Hideout Tracker is a WPF-based application designed to help players of **
 
 ## System Requirements
 
-- **Operating System**: Windows 10 or later
-- **.NET Version**: .NET 8
+- **Operating System**: Windows 10 or later  
+- **.NET Version**: .NET 8  
 - **Dependencies**: The application uses `Newtonsoft.Json` for data handling.
 
 ---
-
 
 ## Contributing
 

@@ -4,6 +4,12 @@
 
 Tarkov Hideout Tracker is a WPF-based application designed to help players of **Escape from Tarkov** track their progress in collecting items, completing quests, and upgrading their hideout. The application provides a clean and modern interface to manage your progress efficiently.
 
+<p align="center">
+  <img src="https://i.imgur.com/D1r5EfS.gif" width="650" alt="Tarkov Hideout Tracker Preview">
+</p>
+
+
+
 ---
 
 ## Features
